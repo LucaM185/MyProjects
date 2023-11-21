@@ -1,38 +1,38 @@
-# [Your Name]
+# [Luca Miglioli]
 
 ## Education
-- **B.Sc. in Computer Science**
+- **First year of Computer Science**
   - University of Brescia (Unibs), Italy
-  - [Expected Graduation Date]
-
+  
 ## Projects
 
 ### Data Science
 1. **Transformer**
-   - [Brief description]
+   - Transformer network architecture with attention
    - [GitHub Repository Link]
 
 2. **Sudoku**
-   - [Brief description]
+   - Screenshot to solved sudoku with ML digit recognition + backtracking
+   - Note: i made my own data labeler (python cv2/numpy) and dataset with augmentation (pytorch)  
    - [GitHub Repository Link]
 
 3. **Conv Visuals**
-   - [Brief description]
-   - [GitHub Repository Link]
+   - Simple Convolutional network (pytorch) trained on mninst with visualisations (python cv2)
 
+   
 ### Web Development
 4. **Manim Studio**
-   - [Brief description]
+   - Frontend to quickly create animations with manim (python library) and gpt4-turbo
    - [GitHub Repository Link]
 
 ### Arduino Control
 5. **STEM**
-   - [Brief description]
+   - Ball balancing software with arduino and python 
    - [GitHub Repository Link]
 
 ### Mobile Apps
 6. **Flutter**
-   - [Brief description]
+   - Flutter math app 
    - [GitHub Repository Link]
 
 ## Skills
