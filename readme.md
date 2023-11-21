@@ -9,7 +9,7 @@
 ### Web Development
 1. **Manim Studio**
    - Frontend to quickly create animations with manim (python library) and gpt4-turbo
-   - ![photo_5902239114835640612_y](https://github.com/LucaM185/CV/assets/66442521/1ae9f1cd-c226-40ed-8d85-ca7ef2a7585d)
+   - ![photo_5902239114835640612_y](https://github.com/LucaM185/CV/assets/66442521/1ae9f1cd-c226-40ed-8d85-ca7ef2a7585d| width=100)
    - Video demo: https://github.com/LucaM185/CV/assets/66442521/416b3874-d456-45ad-a035-3d09ca6e496d
 
 ### Computer vision, detection and arduino control
