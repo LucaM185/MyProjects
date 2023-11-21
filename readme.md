@@ -28,7 +28,8 @@
 
 ## Mobile Apps
 6. **Flutter**
-   - Flutter math app 
+   - Flutter math app
+   - <img width="317" alt="image" src="https://github.com/LucaM185/CV/assets/66442521/9e53089b-7abf-4336-9412-8ba1984941d0">
   
 
 ## Education
