@@ -8,7 +8,7 @@
 
 ## Computer vision, detection and arduino control
 2. **STEM**
-   - Ball balancing software and hardware, a camera uses computer vision to find the ball, advanced processing finds with sub pixel precision the position of the ball, the future potition is estimated and it controls the position and velocity of two stepper motors with microstepping  
+   - Ball balancing software and hardware, a camera uses computer vision to find the ball, advanced processing finds with sub pixel precision the position of the ball, the future potition is estimated and it controls the position and velocity of two stepper motors with microstepping. Most mechanical parts (motor mounts, hooks...) were 3d printed. 
    - [STEM github link](https://github.com/LucaM185/STEM)
 
 ## Data Science - macchine learning
