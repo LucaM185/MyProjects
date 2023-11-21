@@ -19,7 +19,7 @@
 4. **Sudoku**
    - Screenshot to solved sudoku with ML digit recognition + backtracking
    - Note: i made my own data labeler (python cv2/numpy) and dataset with augmentation (pytorch)  
-   - [Sudoku Repo](https://github.com/LucaM185/MLgit)
+   - [Sudoku Repo](https://github.com/LucaM185/MagicSudokuSolver)
 
 5. **Conv Visuals**
    - Simple Convolutional network (pytorch) trained on mninst with visualisations (python cv2)
