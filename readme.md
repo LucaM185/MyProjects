@@ -18,7 +18,8 @@
 
 3. **Conv Visuals**
    - Simple Convolutional network (pytorch) trained on mninst with visualisations (python cv2)
-     https://github.com/LucaM185/CV/assets/66442521/17c4c693-2c48-4312-ad03-25083dc4a128
+   - https://github.com/LucaM185/CV/assets/66442521/17c4c693-2c48-4312-ad03-25083dc4a128
+- [![Project Showcase Video]]([link_to_video](https://github.com/LucaM185/CV/assets/66442521/17c4c693-2c48-4312-ad03-25083dc4a128))
 
 
    
