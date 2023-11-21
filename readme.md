@@ -28,7 +28,7 @@
 ### Arduino Control
 5. **STEM**
    - Ball balancing software with arduino and python 
-   - [GitHub Repository Link]
+   - [[GitHub Repository Link]](https://github.com/LucaM185/STEM)
 
 ### Mobile Apps
 6. **Flutter**
