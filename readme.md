@@ -1,10 +1,4 @@
-# [Luca Miglioli]
-
-## Education
-- **First year of Computer Science**
-  - University of Brescia (Unibs), Italy
-  
-# Projects
+# Luca Miglioli - Projects
 
 ## Web Development
 1. **Manim Studio**
@@ -34,20 +28,12 @@
 ## Mobile Apps
 6. **Flutter**
    - Flutter math app 
-   - 
+  
 
-## Skills
-- Data Science: [List relevant skills]
-- Web Development: [List relevant skills]
-- Arduino Control: [List relevant skills]
-- Mobile Apps: [List relevant skills]
-
-## Languages
-- [List programming languages you're proficient in]
-
-## Certifications
-- [Any relevant certifications]
+## Education
+- **First year of Computer Science**
+  - University of Brescia (Unibs), Italy
+  
 
 ## Contact
-- [LinkedIn Profile]
-- [Email Address]
+- lucamig2004@gmail.com
