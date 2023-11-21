@@ -24,7 +24,8 @@
 5. **Conv Visuals**
    - Simple Convolutional network (pytorch) trained on mninst with visualisations (python cv2)
    - Video Demo: https://github.com/LucaM185/CV/assets/66442521/17c4c693-2c48-4312-ad03-25083dc4a128
-   - 
+   - <img width="415" alt="image" src="https://github.com/LucaM185/CV/assets/66442521/2574cc14-c539-49e6-9e23-bed7449f0e44">
+
 ## Mobile Apps
 6. **Flutter**
    - Flutter math app 
