@@ -7,7 +7,7 @@
    - Functionality demo (server fully online, not relying on the user): https://github.com/LucaM185/CV/assets/66442521/1bb700f9-fa1b-4008-b75f-b36f23a46bd3
    - Project video demo: https://github.com/LucaM185/CV/assets/66442521/416b3874-d456-45ad-a035-3d09ca6e496d
    - If you want to try it out, its still in active development, i might restart the server at any point and some functions (like render button) might not work while i debug them for a while: (you need a google account) 
-<a href="lucam185.pythonanywhere.com">
+[ManimStudio](lucam185.pythonanywhere.com)
 
 
 
