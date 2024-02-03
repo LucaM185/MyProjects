@@ -18,8 +18,8 @@ at [Manim Studio](https://lucam185.pythonanywhere.com)
 
 ## Data Science - macchine learning
 3. **Transformer**
-   - Transformer network architecture with attention
-   - [Transformer repo](https://github.com/LucaM185/MLgit)
+   - GPTs from scratch (upto MoE, the architecture of gpt4)
+   - [Transformer repo](https://github.com/LucaM185/gpts-from-scratch)
 
 4. **Sudoku**
    - Screenshot to solved sudoku with ML digit recognition + backtracking
