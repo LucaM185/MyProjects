@@ -16,7 +16,7 @@ at [Manim Studio](https://lucam185.pythonanywhere.com)
    - Ball balancing software and hardware, a camera uses computer vision to find the ball, advanced processing finds with sub pixel precision the position of the ball, the future potition is estimated and it controls the position and velocity of two stepper motors with microstepping. Most mechanical parts (motor mounts, hooks...) were 3d printed. 
    - [STEM github link](https://github.com/LucaM185/STEM)
 
-## Data Science - macchine learning
+## Deep Learning
 3. **Transformer**
    - GPTs from scratch (upto MoE, the architecture of gpt4)
    - [Transformer repo](https://github.com/LucaM185/gpts-from-scratch)
