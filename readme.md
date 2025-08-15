@@ -12,7 +12,7 @@
    - Completely redesigned after 2 years
    - With flutter frontend and container system in the backend
    - Prettier, more stable and more usable
-   - <img width="1512" height="982" alt="Screenshot 2025-08-15 at 17 32 18" src="https://github.com/user-attachments/assets/99708ebe-929a-4923-b4e4-13fd759f112a" />
+   - <img width="500px" alt="Screenshot 2025-08-15 at 17 32 18" src="https://github.com/user-attachments/assets/99708ebe-929a-4923-b4e4-13fd759f112a" />
 
 
 ## Computer vision, detection and arduino control
