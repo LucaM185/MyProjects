@@ -8,6 +8,13 @@
    - Manim examples video: https://github.com/LucaM185/CV/assets/66442521/416b3874-d456-45ad-a035-3d09ca6e496d
    - I had a demo online but the host was 5$/mo so there is no demo online now
 
+1b. **Manim Studio New**
+   - Completely redesigned after 2 years
+   - With flutter frontend and container system in the backend
+   - Prettier, more stable and more usable
+   - <img width="1512" height="982" alt="Screenshot 2025-08-15 at 17 32 18" src="https://github.com/user-attachments/assets/99708ebe-929a-4923-b4e4-13fd759f112a" />
+
+
 ## Computer vision, detection and arduino control
 2. **STEM**
    - Ball balancing software and hardware, a camera uses computer vision to find the ball, advanced processing finds with sub pixel precision the position of the ball, the future potition is estimated and it controls the position and velocity of two stepper motors with microstepping. Most mechanical parts (motor mounts, hooks...) were 3d printed. 
