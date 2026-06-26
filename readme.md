@@ -1,8 +1,11 @@
 # Luca Miglioli - Projects 
 
 ## TODO ADD: 
+
 -> Latest mathstudio version that was published (300 upvotes, 100 users in a week) 
+
 -> Feather photo editor (3rd on product launch first day) 
+
 -> Many LLM related projects, some for real manufacturing companies
 
 ## Web Development
