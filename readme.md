@@ -2,7 +2,7 @@
 
 ## TODO ADD: 
 
--> Latest mathstudio version that was published (300 upvotes, 100 users in a week, then abandoned because of costs, demand, UX problems and being busy): [https://mathstudio.it](https://www.reddit.com/r/manim/comments/1pnbgf5/an_ide_for_animations/)
+-> Latest mathstudio version that was published (300 upvotes, 100 users in a week, then abandoned because of costs, demand, UX problems and being busy): https://www.reddit.com/r/manim/comments/1pnbgf5/an_ide_for_animations/
 
 -> Feather photo editor (3rd on product launch first day) 
 
